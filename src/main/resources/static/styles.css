@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background: gray;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: blue;
+}
+h2{
+    color: lightblue;
+}
+button{
+    background: black;
+    border: none;
+    color: white;
+}
+header{
+    background: black;
+}
+section{
+    background: green;
+    display: inline;
+}
+footer{
+    background: red;
+    text-align: left;
+}
